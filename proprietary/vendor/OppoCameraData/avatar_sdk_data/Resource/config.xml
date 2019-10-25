@@ -1,0 +1,291 @@
+<HumanAvatar Version="1.0.0.0">
+
+  <Component_Clothes_Shoes ID="1000" Name="M_Clothes_003" Male="YES" ModelSubPath="Body" ShaderID = "0" JointFile="" BodyFixMaskFile="M_Clothes_Mask.png"/>
+  <Component_Clothes_Shoes ID="1001" Name="M_Clothes_001" Male="YES" ModelSubPath="Body" ShaderID = "0" JointFile="" BodyFixMaskFile="M_Clothes_Mask.png"/>
+  <Component_Clothes_Shoes ID="1002" Name="M_Clothes_002" Male="YES" ModelSubPath="Body" ShaderID = "0" JointFile="" BodyFixMaskFile="M_Clothes_Mask.png"/>
+  <Component_Clothes_Shoes ID="1003" Name="M_Clothes_004" Male="YES" ModelSubPath="Body" ShaderID = "0" JointFile="" BodyFixMaskFile="M_Clothes_Mask.png"/>
+  <Component_Clothes_Shoes ID="1004" Name="M_Clothes_005" Male="YES" ModelSubPath="Body" ShaderID = "0" JointFile="" BodyFixMaskFile="M_Clothes_Mask.png"/>
+
+  <Component_Clothes_Shoes ID="0" Name="F_Clothes_003" Male="NO" ModelSubPath="Body" ShaderID = "0" JointFile="" BodyFixMaskFile="F_Clothes_Mask.png"/>
+  <Component_Clothes_Shoes ID="1" Name="F_Clothes_006" Male="NO" ModelSubPath="Body" ShaderID = "0" JointFile="" BodyFixMaskFile="F_Clothes_Mask.png"/>
+  <Component_Clothes_Shoes ID="2" Name="F_Clothes_009" Male="NO" ModelSubPath="Body" ShaderID = "0" JointFile="" BodyFixMaskFile="F_Clothes_Mask.png"/>
+  <Component_Clothes_Shoes ID="3" Name="F_Clothes_008" Male="NO" ModelSubPath="Body" ShaderID = "0" JointFile="" BodyFixMaskFile="F_Clothes_Mask.png"/>
+  <Component_Clothes_Shoes ID="4" Name="F_Clothes_004" Male="NO" ModelSubPath="Body" ShaderID = "0" JointFile="" BodyFixMaskFile="F_Clothes_Mask.png"/>
+  <Component_Clothes_Shoes ID="5" Name="F_Clothes_005" Male="NO" ModelSubPath="Body" ShaderID = "0" JointFile="" BodyFixMaskFile="F_Clothes_Mask.png"/>
+  <Component_Clothes_Shoes ID="6" Name="F_Clothes_010" Male="NO" ModelSubPath="Body" ShaderID = "0" JointFile="" BodyFixMaskFile="F_Clothes_Mask.png"/>
+  <Component_Clothes_Shoes ID="7" Name="F_Clothes_001" Male="NO" ModelSubPath="Body" ShaderID = "0" JointFile="" BodyFixMaskFile="F_Clothes_Mask.png"/>
+  <Component_Clothes_Shoes ID="8" Name="F_Clothes_002" Male="NO" ModelSubPath="Body" ShaderID = "0" JointFile="" BodyFixMaskFile="F_Clothes_Mask.png"/>
+  <Component_Clothes_Shoes ID="9" Name="F_Clothes_007" Male="NO" ModelSubPath="Body" ShaderID = "0" JointFile="" BodyFixMaskFile="F_Clothes_Mask.png"/>
+  
+  
+  <Component_Hair_Color ID="0" Name="Hair_Color_0" ModelSubPath="Hair" Color="{51,50,50}"/>
+  <Component_Hair_Color ID="1" Name="Hair_Color_1" ModelSubPath="Hair" Color="{73,49,38}"/>
+  <Component_Hair_Color ID="2" Name="Hair_Color_2" ModelSubPath="Hair" Color="{135,80,58}"/>
+  <Component_Hair_Color ID="3" Name="Hair_Color_3" ModelSubPath="Hair" Color="{201,111,89}"/>
+  <Component_Hair_Color ID="4" Name="Hair_Color_4" ModelSubPath="Hair" Color="{154,127,101}"/>
+  <Component_Hair_Color ID="5" Name="Hair_Color_5" ModelSubPath="Hair" Color="{211,163,84}"/>
+  <Component_Hair_Color ID="6" Name="Hair_Color_6" ModelSubPath="Hair" Color="{242,200,123}"/>
+  <Component_Hair_Color ID="7" Name="Hair_Color_7" ModelSubPath="Hair" Color="{186,178,173}"/>
+  <Component_Hair_Color ID="8" Name="Hair_Color_8" ModelSubPath="Hair" Color="{255,255,255}" Curve_Number="4" Curve_Points="{0,0,58,66,172,201,255,255}" Bounds="{21,246,0,255}" Gamma="1.52"/>
+  <Component_Hair_Color ID="9" Name="Hair_Color_9" ModelSubPath="Hair" Color="{255,255,69}" Curve_Number="4" Curve_Points="{0,0,58,66,172,201,255,255}" Bounds="{21,246,0,255}" Gamma="1.52"/>
+  <Component_Hair_Color ID="10" Name="Hair_Color_10" ModelSubPath="Hair" Color="{178,34,21}"/>
+  <Component_Hair_Color ID="11" Name="Hair_Color_11" ModelSubPath="Hair" Color="{255,145,184}" Curve_Number="4" Curve_Points="{0,0,52,67,171,204,255,255}" Bounds="{0,229,0,255}" Gamma="0.93"/>
+  <Component_Hair_Color ID="12" Name="Hair_Color_12" ModelSubPath="Hair" Color="{230,104,188}" Curve_Number="4" Curve_Points="{0,0,52,67,171,204,255,255}" Bounds="{12,255,11,255}" Gamma="0.84"/>
+  <Component_Hair_Color ID="13" Name="Hair_Color_13" ModelSubPath="Hair" Color="{129,89,191}"/>
+  <Component_Hair_Color ID="14" Name="Hair_Color_14" ModelSubPath="Hair" Color="{69,174,118}" Curve_Number="4" Curve_Points="{0,0,58,66,172,201,255,255}" Bounds="{21,246,0,255}" Gamma="1.52"/>
+  <Component_Hair_Color ID="15" Name="Hair_Color_15" ModelSubPath="Hair" Color="{120,190,194}" Curve_Number="4" Curve_Points="{0,0,58,66,172,201,255,255}" Bounds="{21,246,0,255}" Gamma="1.52"/>
+  <Component_Hair_Color ID="16" Name="Hair_Color_16" ModelSubPath="Hair" Color="{90,137,255}" Curve_Number="4" Curve_Points="{0,0,52,67,171,204,255,255}" Bounds="{40,246,0,255}" Gamma="1.30"/>
+  <Component_Hair_Color ID="17" Name="Hair_Color_17" ModelSubPath="Hair" Color="{83,110,159}"/>
+
+  <Component_Hair ID="11"    Name="F_Hair_11" Male="NO" ModelSubPath="Hair">
+  </Component_Hair>
+
+  <Component_Hair ID="7"    Name="F_Hair_7" Male="NO" ModelSubPath="Hair">
+  </Component_Hair>
+
+  <Component_Hair ID="3"    Name="F_Hair_3" Male="NO" ModelSubPath="Hair">
+  </Component_Hair>
+
+  <Component_Hair ID="4"    Name="F_Hair_4" Male="NO" ModelSubPath="Hair">
+  </Component_Hair>
+
+  <Component_Hair ID="10"   Name="F_Hair_10" Male="NO" ModelSubPath="Hair">
+  </Component_Hair>
+
+  <Component_Hair ID="15"   Name="F_Hair_15" Male="NO" ModelSubPath="Hair">
+  </Component_Hair>
+
+  <Component_Hair ID="16"   Name="F_Hair_16" Male="NO" ModelSubPath="Hair">
+  </Component_Hair>
+
+  <Component_Hair ID="8"    Name="F_Hair_8" Male="NO" ModelSubPath="Hair">
+  </Component_Hair>
+
+  <Component_Hair ID="6"    Name="F_Hair_6" Male="NO" ModelSubPath="Hair">
+  </Component_Hair>
+
+  <Component_Hair ID="0"    Name="F_Hair_0" Male="NO" ModelSubPath="Hair">
+  </Component_Hair>
+
+  <Component_Hair ID="9"    Name="F_Hair_9" Male="NO" ModelSubPath="Hair">
+  </Component_Hair>
+
+  <Component_Hair ID="2"    Name="F_Hair_2" Male="NO" ModelSubPath="Hair">
+  </Component_Hair>
+
+  <Component_Hair ID="1"    Name="F_Hair_1" Male="NO" ModelSubPath="Hair">
+  </Component_Hair>
+
+  <Component_Hair ID="13"   Name="F_Hair_13" Male="NO" ModelSubPath="Hair">
+  </Component_Hair>
+  
+  <Component_Hair ID="1002" Name="M_Hair_1002" Male="YES" ModelSubPath="Hair">
+  </Component_Hair>
+  <Component_Hair ID="1000" Name="M_Hair_1000" Male="YES" ModelSubPath="Hair">
+  </Component_Hair>
+  <Component_Hair ID="1001" Name="M_Hair_1001" Male="YES" ModelSubPath="Hair">
+  </Component_Hair>
+  <Component_Hair ID="1005" Name="M_Hair_1005" Male="YES" ModelSubPath="Hair">
+  </Component_Hair>
+  <Component_Hair ID="1003" Name="M_Hair_1003" Male="YES" ModelSubPath="Hair">
+  </Component_Hair>
+  <Component_Hair ID="1004" Name="M_Hair_1004" Male="YES" ModelSubPath="Hair">
+  </Component_Hair>
+  
+  <HairSense ID="1" Name="ULTRA_SHORT_STRAIGHT_HAIR" Male_HairID="1000" Female_HairID="7"/>
+  <HairSense ID="0" Name="ULTRA_SHORT_CURLY_HAIR" Male_HairID="1005" Female_HairID="7"/>
+  <HairSense ID="3" Name="SHORT_STRAIGHT_HAIR" Male_HairID="1000" Female_HairID="3"/>
+  <HairSense ID="2" Name="SHORT_CURLY_HAIR" Male_HairID="1005" Female_HairID="4"/>
+  <HairSense ID="5" Name="MIDDLE_STRAIGHT_HAIR" Male_HairID="1000" Female_HairID="10"/>
+  <HairSense ID="4" Name="MIDDLE_CURLY_HAIR" Male_HairID="1005" Female_HairID="10"/>
+  <HairSense ID="7" Name="LONG_STRAIGHT_HAIR" Male_HairID="1000" Female_HairID="15"/>
+  <HairSense ID="6" Name="LONG_CURLY_HAIR" Male_HairID="1005" Female_HairID="8"/>
+  <HairSense ID="8" Name="SINGLE_PONYTAIL_HAIR" Male_HairID="1004" Female_HairID="9"/>
+
+  
+  <Component_SkinColor ID="0" Name="SkinColor_000" ModelSubPath="Skin" 
+    Bright_Level="90" 
+    Colorful_Level="90" 
+    Clarity_Level="50" 
+    Style_Level="50" 
+    Style_Value="50" 
+    Foundation_Level="80" 
+    Foundation_Color="{239,160,122}"
+    Eyebrowdye_M_Level ="100" 
+    Eyebrowdye_M_Color="{94,65,57}" 
+    Eyebrowdye_F_Level ="90" 
+    Eyebrowdye_F_Color="{94,65,57}" 
+    Lipstick_M_Level ="10" 
+    Lipstick_M_Color="{218,96,113}" 
+    Lipstick_F_Level ="100" 
+    Lipstick_F_Color="{218,96,113}"/>
+
+  <Component_SkinColor ID="1" Name="SkinColor_001" ModelSubPath="Skin" 
+     Bright_Level="90" 
+    Colorful_Level="90" 
+    Clarity_Level="60" 
+    Style_Level="45" 
+    Style_Value="100" 
+    Foundation_Level="100" 
+    Foundation_Color="{243,223,220}"
+    Eyebrowdye_M_Level ="100" 
+    Eyebrowdye_M_Color="{131,103,92}" 
+    Eyebrowdye_F_Level ="90" 
+    Eyebrowdye_F_Color="{131,103,92}"  
+    Lipstick_M_Level ="10" 
+    Lipstick_M_Color="{232,95,124}" 
+    Lipstick_F_Level ="100" 
+    Lipstick_F_Color="{232,95,124}"/>
+	
+
+  <Component_SkinColor ID="2" Name="SkinColor_002" ModelSubPath="Skin" 
+    Bright_Level="100" 
+    Colorful_Level="80" 
+    Clarity_Level="80" 
+    Style_Level="64" 
+    Style_Value="0" 
+    Foundation_Level="0" 
+    Foundation_Color="{238,176,164}"
+    Eyebrowdye_M_Level ="100" 
+    Eyebrowdye_M_Color="{134,95,62}" 
+    Eyebrowdye_F_Level ="90" 
+    Eyebrowdye_F_Color="{134,95,62}" 
+    Lipstick_M_Level ="2" 
+    Lipstick_M_Color="{223,81,112}" 
+    Lipstick_F_Level ="100" 
+    Lipstick_F_Color="{223,81,112}"/>
+
+
+  <Component_SkinColor ID="3" Name="SkinColor_003" ModelSubPath="Skin" 
+    Bright_Level="100" 
+    Colorful_Level="74" 
+    Clarity_Level="60" 
+    Style_Level="61" 
+    Style_Value="80" 
+    Foundation_Level="80" 
+    Foundation_Color="{215,163,111}"
+    Eyebrowdye_M_Level ="100" 
+    Eyebrowdye_M_Color="{136,88,47}" 
+    Eyebrowdye_F_Level ="90" 
+    Eyebrowdye_F_Color="{136,88,47}" 
+    Lipstick_M_Level ="40" 
+    Lipstick_M_Color="{227,97,87}" 
+    Lipstick_F_Level ="100" 
+    Lipstick_F_Color="{227,97,87}"/>
+
+    
+  <Component_SkinColor ID="4" Name="SkinColor_004" ModelSubPath="Skin" 
+    Bright_Level="100" 
+    Colorful_Level="74" 
+    Clarity_Level="60" 
+    Style_Level="74" 
+    Style_Value="100" 
+    Foundation_Level="100" 
+    Foundation_Color="{234,172,101}"
+    Eyebrowdye_M_Level ="100" 
+    Eyebrowdye_M_Color="{136,88,47}" 
+    Eyebrowdye_F_Level ="90" 
+    Eyebrowdye_F_Color="{136,88,47}" 
+    Lipstick_M_Level ="50" 
+    Lipstick_M_Color="{236,111,58}" 
+    Lipstick_F_Level ="100" 
+    Lipstick_F_Color="{236,111,58}"/>
+	
+	
+  <Component_SkinColor ID="5" Name="SkinColor_005" ModelSubPath="Skin" 
+    Bright_Level="70" 
+    Colorful_Level="61" 
+    Clarity_Level="41" 
+    Style_Level="60" 
+    Style_Value="100" 
+    Foundation_Level="100" 
+    Foundation_Color="{41,20,20}"
+    Eyebrowdye_M_Level ="100" 
+    Eyebrowdye_M_Color="{98,55,47}" 
+    Eyebrowdye_F_Level ="90" 
+    Eyebrowdye_F_Color="{98,55,47}" 
+    Lipstick_M_Level ="60" 
+    Lipstick_M_Color="{214,100,95}" 
+    Lipstick_F_Level ="100" 
+    Lipstick_F_Color="{214,100,95}"/>
+	
+  
+  <Component_SkinColor ID="6" Name="SkinColor_006" ModelSubPath="Skin" 
+    Bright_Level="5" 
+    Colorful_Level="82" 
+    Clarity_Level="60" 
+    Style_Level="60" 
+    Style_Value="100" 
+    Foundation_Level="100" 
+    Foundation_Color="{199,142,111}"
+    Eyebrowdye_M_Level ="100" 
+    Eyebrowdye_M_Color="{86,45,23}" 
+    Eyebrowdye_F_Level ="90" 
+    Eyebrowdye_F_Color="{86,45,23}"  
+    Lipstick_M_Level ="5" 
+    Lipstick_M_Color="{200,91,89}" 
+    Lipstick_F_Level ="40" 
+    Lipstick_F_Color="{200,91,89}"/>
+
+  
+  <Component_SkinColor ID="7" Name="SkinColor_007" ModelSubPath="Skin" 
+    Bright_Level="79" 
+    Colorful_Level="54" 
+    Clarity_Level="52" 
+    Style_Level="79" 
+    Style_Value="100" 
+    Foundation_Level="100" 
+    Foundation_Color="{140,103,86}"
+    Eyebrowdye_M_Level ="100" 
+    Eyebrowdye_M_Color="{58,32,25}" 
+    Eyebrowdye_F_Level ="90" 
+    Eyebrowdye_F_Color="{58,32,25}"  
+    Lipstick_M_Level ="5" 
+    Lipstick_M_Color="{214,82,86}" 
+    Lipstick_F_Level ="40" 
+    Lipstick_F_Color="{214,82,86}"/>
+	
+  
+  <Component_EyeColor ID="0" Name="EyeColor0" ModelSubPath="Eye"/>
+
+  <Component_Glass ID="0" Name="G_Glasses_000" Male="YES" ModelSubPath="Glass"/>
+  <Component_Glass ID="1" Name="G_Glasses_001" Male="YES" ModelSubPath="Glass"/>
+  <Component_Glass ID="2" Name="G_Glasses_002" Male="YES" ModelSubPath="Glass"/>
+  <Component_Glass ID="3" Name="G_Glasses_003" Male="YES" ModelSubPath="Glass"/>
+  <Component_Glass ID="4" Name="G_Glasses_004" Male="YES" ModelSubPath="Glass"/>
+  <Component_Glass ID="5" Name="G_Glasses_005" Male="YES" ModelSubPath="Glass"/>
+  <Component_Glass ID="6" Name="G_Glasses_006" Male="YES" ModelSubPath="Glass"/>
+  <Component_Glass ID="7" Name="G_Glasses_007" Male="YES" ModelSubPath="Glass"/>
+  <Component_Glass ID="8" Name="G_Glasses_008" Male="YES" ModelSubPath="Glass"/>
+  <Component_Glass ID="9" Name="G_Glasses_009" Male="YES" ModelSubPath="Glass"/>
+  <Component_Glass ID="10" Name="G_Glasses_010" Male="YES" ModelSubPath="Glass"/>
+  <Component_Glass ID="11" Name="M_Glasses_001" Male="YES" ModelSubPath="Glass"/>
+
+  <Component_Glass ID="12" Name="G_Glasses_000" Male="NO" ModelSubPath="Glass"/>
+  <Component_Glass ID="13" Name="G_Glasses_001" Male="NO" ModelSubPath="Glass"/>
+  <Component_Glass ID="14" Name="G_Glasses_002" Male="NO" ModelSubPath="Glass"/>
+  <Component_Glass ID="15" Name="G_Glasses_003" Male="NO" ModelSubPath="Glass"/>
+  <Component_Glass ID="16" Name="G_Glasses_004" Male="NO" ModelSubPath="Glass"/>
+  <Component_Glass ID="17" Name="G_Glasses_005" Male="NO" ModelSubPath="Glass"/>
+  <Component_Glass ID="18" Name="G_Glasses_006" Male="NO" ModelSubPath="Glass"/>
+  <Component_Glass ID="19" Name="G_Glasses_007" Male="NO" ModelSubPath="Glass"/>
+  <Component_Glass ID="20" Name="G_Glasses_008" Male="NO" ModelSubPath="Glass"/>
+  <Component_Glass ID="21" Name="G_Glasses_009" Male="NO" ModelSubPath="Glass"/>
+  <Component_Glass ID="22" Name="G_Glasses_010" Male="NO" ModelSubPath="Glass"/>
+  <Component_Glass ID="23" Name="M_Glasses_001" Male="NO" ModelSubPath="Glass"/>
+  
+
+  <HumanAvatarAction ID="1"  Name="Hi" ModelSubPath="Action" FrameCount="12" FrameWidth="360" FrameHeight="360"/>
+  <HumanAvatarAction ID="2"  Name="Bye" ModelSubPath="Action" FrameCount="12" FrameWidth="360" FrameHeight="360"/>
+  <HumanAvatarAction ID="3"  Name="Agree" ModelSubPath="Action" FrameCount="12" FrameWidth="360" FrameHeight="360"/>
+  <HumanAvatarAction ID="4"  Name="Disagree" ModelSubPath="Action" FrameCount="12" FrameWidth="360" FrameHeight="360"/>
+  <HumanAvatarAction ID="5"  Name="Happy" ModelSubPath="Action" FrameCount="12" FrameWidth="360" FrameHeight="360"/>
+  <HumanAvatarAction ID="6"  Name="Sad" ModelSubPath="Action" FrameCount="12" FrameWidth="360" FrameHeight="360"/>
+  <HumanAvatarAction ID="7"  Name="Confuse" ModelSubPath="Action" FrameCount="12" FrameWidth="360" FrameHeight="360"/>
+  <HumanAvatarAction ID="8"  Name="Angry" ModelSubPath="Action" FrameCount="12" FrameWidth="360" FrameHeight="360"/>
+  <HumanAvatarAction ID="9"  Name="Thankyou" ModelSubPath="Action" FrameCount="12" FrameWidth="360" FrameHeight="360"/>
+  <HumanAvatarAction ID="10" Name="Surprise" ModelSubPath="Action" FrameCount="12" FrameWidth="360" FrameHeight="360"/>
+  <HumanAvatarAction ID="11" Name="ThumbUp" ModelSubPath="Action" FrameCount="12" FrameWidth="360" FrameHeight="360"/>
+  <HumanAvatarAction ID="12" Name="FingerHeart" ModelSubPath="Action" FrameCount="12" FrameWidth="360" FrameHeight="360"/>
+
+</HumanAvatar>

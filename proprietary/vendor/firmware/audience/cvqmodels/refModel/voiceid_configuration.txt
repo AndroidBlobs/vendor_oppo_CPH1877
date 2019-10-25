@@ -1,0 +1,6 @@
+# All lines prefixed with "#" are treated as comments and ignored
+# Have only one valid line, which has a part of the refrence model file name
+# helloVoiceQ (Sample reference model file - ref_helloVoiceQ1.model)
+# BaiduYiXia (Sample reference model file - ref_BaiduYiXia1.model)
+XiaoOXiaoO
+XiaoOuNiZaiNaLi

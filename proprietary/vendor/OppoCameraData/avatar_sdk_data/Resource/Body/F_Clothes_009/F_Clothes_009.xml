@@ -1,0 +1,10 @@
+
+<Sticker Version="1.0.0.0">
+    
+    <Light LightName="light00" LightType="PointLight" LightPosition="{0,0,100}" LightAmbient="{0.5,0.5,0.5,1.0}" LightDiffuse="{0.8,0.8,0.8,1.0}" LightSpecular="{0.0,0.0,0.0,1.0}"/>
+    <Light LightName="light11" LightType="DirectionLight" lightDirection="{0,0,100}" LightAmbient="{0.5,0.5,0.5,1.0}" LightDiffuse="{0.5,0.5,0.5,1.0}" LightSpecular="{0.1,0.1,0.1,1.0}"/>
+    <Light LightName="light22" LightType="DirectionLight" lightDirection="{0,100,100}" LightAmbient="{0.2,0.2,0.2,1.0}" LightDiffuse="{0.0,0.0,0.0,1.0}" LightSpecular="{0.0,0.0,0.0,1.0}"/>
+    <StickerActionTexture ActionName="Bottoms" Blend="YES" BlendBackGround="NO" ClearDepth="NO" RenderDepth="YES" Tex="F_Clothes_Bottoms.png" UseLight="YES" LightEffectName="light0|light11|light22" EyePosition="{0.0,0.0,75.0}" Shininess="100.0"/>
+    <StickerActionTexture ActionName="Shoes" Blend="YES" BlendBackGround="NO" ClearDepth="NO" RenderDepth="YES" Tex="F_Clothes_Shoes.png" UseLight="YES" LightEffectName="light0|light11|light22" EyePosition="{0.0,0.0,75.0}" Shininess="100.0"/>
+    <StickerActionTexture ActionName="Upper" Blend="YES" BlendBackGround="NO" ClearDepth="NO" RenderDepth="YES" Tex="F_Clothes_Upper.png" UseLight="YES" LightEffectName="light0|light11|light22" EyePosition="{0.0,0.0,75.0}" Shininess="100.0"/>
+</Sticker>

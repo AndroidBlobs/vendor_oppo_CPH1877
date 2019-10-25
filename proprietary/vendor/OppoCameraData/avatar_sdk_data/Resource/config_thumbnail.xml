@@ -1,0 +1,277 @@
+<HumanAvatar_Thumbnail Version="1.0.0.0">
+  <Component_Clothes_Shoes ID="1000" Name="M_Clothes_003" Male="YES" Thumbnail = "Body/M_Clothes_003/M_Clothes_003_thumbnail.png"/>
+  <Component_Clothes_Shoes ID="1001" Name="M_Clothes_001" Male="YES" Thumbnail = "Body/M_Clothes_001/M_Clothes_001_thumbnail.png"/>
+  <Component_Clothes_Shoes ID="1002" Name="M_Clothes_002" Male="YES" Thumbnail = "Body/M_Clothes_002/M_Clothes_002_thumbnail.png"/>
+  <Component_Clothes_Shoes ID="1003" Name="M_Clothes_004" Male="YES" Thumbnail = "Body/M_Clothes_004/M_Clothes_004_thumbnail.png"/>
+  <Component_Clothes_Shoes ID="1004" Name="M_Clothes_005" Male="YES" Thumbnail = "Body/M_Clothes_005/M_Clothes_005_thumbnail.png"/>
+
+  <Component_Clothes_Shoes ID="0" Name="F_Clothes_003" Male="NO" Thumbnail = "Body/F_Clothes_003/F_Clothes_003_thumbnail.png"/>
+  <Component_Clothes_Shoes ID="1" Name="F_Clothes_006" Male="NO" Thumbnail = "Body/F_Clothes_006/F_Clothes_006_thumbnail.png"/>
+  <Component_Clothes_Shoes ID="2" Name="F_Clothes_009" Male="NO" Thumbnail = "Body/F_Clothes_009/F_Clothes_009_thumbnail.png"/>
+  <Component_Clothes_Shoes ID="3" Name="F_Clothes_008" Male="NO" Thumbnail = "Body/F_Clothes_008/F_Clothes_008_thumbnail.png"/>
+  <Component_Clothes_Shoes ID="4" Name="F_Clothes_004" Male="NO" Thumbnail = "Body/F_Clothes_004/F_Clothes_004_thumbnail.png"/>
+  <Component_Clothes_Shoes ID="5" Name="F_Clothes_005" Male="NO" Thumbnail = "Body/F_Clothes_005/F_Clothes_005_thumbnail.png"/>
+  <Component_Clothes_Shoes ID="6" Name="F_Clothes_010" Male="NO" Thumbnail = "Body/F_Clothes_010/F_Clothes_010_thumbnail.png"/>
+  <Component_Clothes_Shoes ID="7" Name="F_Clothes_001" Male="NO" Thumbnail = "Body/F_Clothes_001/F_Clothes_001_thumbnail.png"/>
+  <Component_Clothes_Shoes ID="8" Name="F_Clothes_002" Male="NO" Thumbnail = "Body/F_Clothes_002/F_Clothes_002_thumbnail.png"/>
+  <Component_Clothes_Shoes ID="9" Name="F_Clothes_007" Male="NO" Thumbnail = "Body/F_Clothes_007/F_Clothes_007_thumbnail.png"/>
+
+<!--++++++++++++++++++++++++++++++++++++++Component_Hair_Color+++++++++++++++++++++++++++++++++++++++++++++-->
+  <Component_Hair_Color ID="0"    
+    Name="Hair_Color_0"     
+    Color="{51,50,50}"     
+    Thumbnail = ""/>
+  <Component_Hair_Color ID="1"    
+    Name="Hair_Color_1"     
+    Color="{73,49,38}"     
+    Thumbnail = ""/>
+  <Component_Hair_Color ID="2"    
+    Name="Hair_Color_2"     
+    Color="{135,80,58}"    
+    Thumbnail = ""/>
+  <Component_Hair_Color ID="3"    
+    Name="Hair_Color_3"     
+    Color="{201,111,89}"   
+    Thumbnail = ""/>
+  <Component_Hair_Color ID="4"    
+    Name="Hair_Color_4"     
+    Color="{154,127,101}"  
+    Thumbnail = ""/>
+  <Component_Hair_Color ID="5"    
+    Name="Hair_Color_5"     
+    Color="{211,163,84}"   
+    Thumbnail = ""/>
+  <Component_Hair_Color ID="6"    
+    Name="Hair_Color_6"     
+    Color="{242,200,123}"  
+    Thumbnail = ""/>
+  <Component_Hair_Color ID="7"    
+    Name="Hair_Color_7"     
+    Color="{186,178,173}"  
+    Thumbnail = ""/>
+  <Component_Hair_Color ID="8"    
+    Name="Hair_Color_8"     
+    Color="{255,255,255}"  
+    Thumbnail = ""/>
+  <Component_Hair_Color ID="9"    
+    Name="Hair_Color_9"     
+    Color="{255,255,69}"   
+    Thumbnail = ""/>
+  <Component_Hair_Color ID="10"   
+    Name="Hair_Color_10"    
+    Color="{178,34,21}"    
+    Thumbnail = ""/>
+  <Component_Hair_Color ID="11"   
+    Name="Hair_Color_11"    
+    Color="{255,145,184}"  
+    Thumbnail = ""/>
+  <Component_Hair_Color ID="12"   
+    Name="Hair_Color_12"    
+    Color="{230,104,188}"  
+    Thumbnail = ""/>
+  <Component_Hair_Color ID="13"   
+    Name="Hair_Color_13"    
+    Color="{129,89,191}"   
+    Thumbnail = ""/>
+  <Component_Hair_Color ID="14"   
+    Name="Hair_Color_14"    
+    Color="{69,174,118}"   
+    Thumbnail = ""/>
+  <Component_Hair_Color ID="15"   
+    Name="Hair_Color_15"    
+    Color="{120,190,194}"  
+    Thumbnail = ""/>
+  <Component_Hair_Color ID="16"   
+    Name="Hair_Color_16"    
+    Color="{90,137,255}"   
+    Thumbnail = ""/>
+  <Component_Hair_Color ID="17"   
+    Name="Hair_Color_17"    
+    Color="{83,110,159}"   
+    Thumbnail = ""/>
+
+<!--++++++++++++++++++++++++++++++++++++++Component_Hair+++++++++++++++++++++++++++++++++++++++++++++-->
+  <Component_Hair ID="11"    Name="F_Hair_11"           
+    Thumbnail  = "Hair/F_Hair_11_thumbnail.png"/>
+
+  <Component_Hair ID="7"    Name="F_Hair_7"           
+    Thumbnail  = "Hair/F_Hair_7_thumbnail.png"/>
+
+  <Component_Hair ID="3"    Name="F_Hair_3"           
+    Thumbnail  = "Hair/F_Hair_3_thumbnail.png"/>
+
+  <Component_Hair ID="4"    Name="F_Hair_4"           
+    Thumbnail  = "Hair/F_Hair_4_thumbnail.png"/>
+
+  <Component_Hair ID="10"   Name="F_Hair_10"          
+    Thumbnail  = "Hair/F_Hair_10_thumbnail.png"/>
+
+  <Component_Hair ID="15"    Name="F_Hair_15"           
+    Thumbnail  = "Hair/F_Hair_15_thumbnail.png"/>
+
+  <Component_Hair ID="16"    Name="F_Hair_16"           
+    Thumbnail  = "Hair/F_Hair_16_thumbnail.png"/>
+
+  <Component_Hair ID="8"    Name="F_Hair_8"           
+    Thumbnail  = "Hair/F_Hair_8_thumbnail.png"/>
+
+  <Component_Hair ID="6"    Name="F_Hair_6"           
+    Thumbnail  = "Hair/F_Hair_6_thumbnail.png"/>
+
+  <Component_Hair ID="0"    Name="F_Hair_0"           
+    Thumbnail  = "Hair/F_Hair_0_thumbnail.png"/>
+
+  <Component_Hair ID="9"    Name="F_Hair_9"           
+    Thumbnail  = "Hair/F_Hair_9_thumbnail.png"/>
+
+  <Component_Hair ID="2"    Name="F_Hair_2"           
+    Thumbnail  = "Hair/F_Hair_2_thumbnail.png"/>
+
+  <Component_Hair ID="1"    Name="F_Hair_1"           
+    Thumbnail  = "Hair/F_Hair_1_thumbnail.png"/>
+
+  <Component_Hair ID="13"   Name="F_Hair_13"          
+    Thumbnail  = "Hair/F_Hair_13_thumbnail.png"/>
+
+  <!--Male's hair-->
+  <Component_Hair ID="1002"    Name="M_Hair_1002"     
+    Thumbnail  = "Hair/M_Hair_1002_thumbnail.png"/>
+
+  <Component_Hair ID="1000"    Name="M_Hair_1000"     
+    Thumbnail  = "Hair/M_Hair_1000_thumbnail.png"/>
+
+  <Component_Hair ID="1001"    Name="M_Hair_1001"     
+    Thumbnail  = "Hair/M_Hair_1001_thumbnail.png"/>
+
+  <Component_Hair ID="1005"    Name="M_Hair_1005"     
+    Thumbnail  = "Hair/M_Hair_1005_thumbnail.png"/>
+
+  <Component_Hair ID="1003"    Name="M_Hair_1003"     
+    Thumbnail  = "Hair/M_Hair_1003_thumbnail.png"/>
+
+  <Component_Hair ID="1004"    Name="M_Hair_1004"     
+    Thumbnail  = "Hair/M_Hair_1004_thumbnail.png"/>
+
+<!--++++++++++++++++++++++++++++++++++++++Component_SkinColor+++++++++++++++++++++++++++++++++++++++++++++-->
+  <Component_SkinColor ID ="0" Name="SkinColor_000" 
+	Foundation_Color="{233,186,162}"
+    Thumbnail  = ""
+    />
+
+  <Component_SkinColor ID="1" Name="SkinColor_001" 
+    Foundation_Color="{245,221,207}"  
+    Thumbnail  = ""/>
+
+  <Component_SkinColor ID="2" Name="SkinColor_002" 
+    Foundation_Color="{245,200,185}"  
+    Thumbnail  = ""/>
+
+  <Component_SkinColor ID="3" Name="SkinColor_003" 
+    Foundation_Color="{248,210,182}"  
+    Thumbnail  = ""/>
+
+  <Component_SkinColor ID="4" Name="SkinColor_004" 
+    Foundation_Color="{245,195,157}"  
+    Thumbnail  = ""/>
+
+  <Component_SkinColor ID="5" Name="SkinColor_003" 
+    Foundation_Color="{210,159,142}"  
+    Thumbnail  = ""/>
+
+  <Component_SkinColor ID="6" Name="SkinColor_004" 
+    Foundation_Color="{199,142,111}"  
+    Thumbnail  = ""/>
+
+  <Component_SkinColor ID="7" Name="SkinColor_004" 
+    Foundation_Color="{140,103,86}"  
+    Thumbnail  = ""/>
+
+
+<!--++++++++++++++++++++++++++++++++++++++Component_Glass+++++++++++++++++++++++++++++++++++++++++++++-->
+  <Component_Glass ID="0" Name="G_Glasses_000" Thumbnail = "Glass/G_Glasses_000_thumbnail.png"/>
+  <Component_Glass ID="1" Name="G_Glasses_001" Thumbnail = "Glass/G_Glasses_001_thumbnail.png"/>
+  <Component_Glass ID="2" Name="G_Glasses_002" Thumbnail = "Glass/G_Glasses_002_thumbnail.png"/>
+  <Component_Glass ID="3" Name="G_Glasses_003" Thumbnail = "Glass/G_Glasses_003_thumbnail.png"/>
+  <Component_Glass ID="4" Name="G_Glasses_004" Thumbnail = "Glass/G_Glasses_004_thumbnail.png"/>
+  <Component_Glass ID="5" Name="G_Glasses_005" Thumbnail = "Glass/G_Glasses_005_thumbnail.png"/>
+  <Component_Glass ID="6" Name="G_Glasses_006" Thumbnail = "Glass/G_Glasses_006_thumbnail.png"/>
+  <Component_Glass ID="7" Name="G_Glasses_007" Thumbnail = "Glass/G_Glasses_007_thumbnail.png"/>
+  <Component_Glass ID="8" Name="G_Glasses_008" Thumbnail = "Glass/G_Glasses_008_thumbnail.png"/>
+  <Component_Glass ID="9" Name="G_Glasses_009" Thumbnail = "Glass/G_Glasses_009_thumbnail.png"/>
+  <Component_Glass ID="10" Name="G_Glasses_010" Thumbnail = "Glass/G_Glasses_010_thumbnail.png"/>
+  <Component_Glass ID="11" Name="M_Glasses_001" Thumbnail = "Glass/M_Glasses_001_thumbnail.png"/>
+
+  <Component_Glass ID="12" Name="G_Glasses_000" Thumbnail = "Glass/G_Glasses_000_thumbnail.png"/>
+  <Component_Glass ID="13" Name="G_Glasses_001" Thumbnail = "Glass/G_Glasses_001_thumbnail.png"/>
+  <Component_Glass ID="14" Name="G_Glasses_002" Thumbnail = "Glass/G_Glasses_002_thumbnail.png"/>
+  <Component_Glass ID="15" Name="G_Glasses_003" Thumbnail = "Glass/G_Glasses_003_thumbnail.png"/>
+  <Component_Glass ID="16" Name="G_Glasses_004" Thumbnail = "Glass/G_Glasses_004_thumbnail.png"/>
+  <Component_Glass ID="17" Name="G_Glasses_005" Thumbnail = "Glass/G_Glasses_005_thumbnail.png"/>
+  <Component_Glass ID="18" Name="G_Glasses_006" Thumbnail = "Glass/G_Glasses_006_thumbnail.png"/>
+  <Component_Glass ID="19" Name="G_Glasses_007" Thumbnail = "Glass/G_Glasses_007_thumbnail.png"/>
+  <Component_Glass ID="20" Name="G_Glasses_008" Thumbnail = "Glass/G_Glasses_008_thumbnail.png"/>
+  <Component_Glass ID="21" Name="G_Glasses_009" Thumbnail = "Glass/G_Glasses_009_thumbnail.png"/>
+  <Component_Glass ID="22" Name="G_Glasses_010" Thumbnail = "Glass/G_Glasses_010_thumbnail.png"/>
+  <Component_Glass ID="23" Name="M_Glasses_001" Thumbnail = "Glass/M_Glasses_001_thumbnail.png"/>
+  
+  
+  
+<!--++++++++++++++++++++++++++++++++++++++HumanAvatarAction+++++++++++++++++++++++++++++++++++++++++++++-->
+<!--hi  bye agree disagree happy sad confuse angry thankyou surprise thumbup fingerheart-->
+  <HumanAvatarAction ID="1"       Name="Hi"       
+    ForegroundPath = "Action/Hi/foreground"
+    BackgroundPath = "Action/Hi/background"/>
+  <HumanAvatarAction ID="2"       Name="Bye"       
+    ForegroundPath = "Action/Bye/foreground"
+    BackgroundPath = "Action/Bye/background"/>    
+  <HumanAvatarAction ID="3" Name="Agree"     
+    ForegroundPath = "Action/Agree/foreground"
+    BackgroundPath = "Action/Agree/background"/>
+  <HumanAvatarAction ID="4"       Name="Disagree"       
+    ForegroundPath = "Action/Disagree/foreground"
+    BackgroundPath = "Action/Disagree/background"/>
+  <HumanAvatarAction ID="5" Name="Happy"         
+    ForegroundPath = "Action/Happy/foreground"
+    BackgroundPath = "Action/Happy/background"/>
+  <HumanAvatarAction ID="6" Name="Sad"       
+    ForegroundPath = "Action/Sad/foreground"
+    BackgroundPath = "Action/Sad/background"/>
+  <HumanAvatarAction ID="7" Name="Confuse"   
+    ForegroundPath = "Action/Confuse/foreground"
+    BackgroundPath = "Action/Confuse/background"/>
+  <HumanAvatarAction ID="8" Name="Angry"     
+    ForegroundPath = "Action/Angry/foreground"
+    BackgroundPath = "Action/Angry/background"/>
+  <HumanAvatarAction ID="9"       Name="Thankyou"       
+    ForegroundPath = "Action/Thankyou/foreground"
+    BackgroundPath = "Action/Thankyou/background"/>
+  <HumanAvatarAction ID="10" Name="Surprise"   
+    ForegroundPath = "Action/Surprise/foreground"
+    BackgroundPath = "Action/Surprise/background"/>
+  <HumanAvatarAction ID="11"      Name="ThumbUp"       
+    ForegroundPath = "Action/ThumbUp/foreground"
+    BackgroundPath = "Action/ThumbUp/background"/>
+  <HumanAvatarAction ID="12"      Name="FingerHeart"       
+    ForegroundPath = "Action/FingerHeart/foreground"
+    BackgroundPath = "Action/FingerHeart/background"/>
+
+     
+<!-- for test new GIF template design.(Say Hi with handup) -->
+<!--   
+    <HumanAvatarAction ID="12" Name="12_TestHello" FollowSkinColor = "YES">
+      <Follow SkinColor_ID = "0"   
+        ForegroundPath = "Action/12_TestHello/SkinColor000/foreground"
+        BackgroundPath = "Action/12_TestHello/SkinColor000/background"/>
+      <Follow SkinColor_ID = "1"   
+        ForegroundPath = "Action/12_TestHello/SkinColor001/foreground"
+        BackgroundPath = "Action/12_TestHello/SkinColor001/background"/>
+      <Follow SkinColor_ID = "2"   
+        ForegroundPath = "Action/12_TestHello/SkinColor002/foreground"
+        BackgroundPath = "Action/12_TestHello/SkinColor002/background"/>
+      <Follow SkinColor_ID = "3"   
+        ForegroundPath = "Action/12_TestHello/SkinColor003/foreground"
+        BackgroundPath = "Action/12_TestHello/SkinColor003/background"/>        
+    </HumanAvatarAction>  
+-->
+
+</HumanAvatar_Thumbnail>
